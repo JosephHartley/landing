@@ -1,0 +1,18 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-image: linear-gradient(92.88deg, #b54545 9.16%, #cc4343 43.89%, #d73f3f 64.72%);
+}
+
+.footer a {
+  font-size: 30px;
+  color:  white;
+}
+
+.footer p {
+  color: white;
+}
+
+.footer .fas {
+  color: #BF0F12;
+}

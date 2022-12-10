@@ -1,0 +1,15 @@
+.btn-primary {
+  display: inline-block;
+  background-image: linear-gradient(92.88deg, #b54545 9.16%, #cc4343 43.89%, #d73f3f 64.72%);
+  border-radius: 50px;
+  padding: 16px 36px;
+  color: white;
+  font-weight: bold;
+  text-shadow: rgba(0, 0, 0, 0.25) 0 3px 8px;
+  transition: all .5s;
+}
+
+.btn-primary:hover {
+  box-shadow: rgba(205, 63, 63, 0.2) 0 1px 30px;
+  transition-duration: .1s;
+}
